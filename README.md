@@ -303,14 +303,8 @@ Posição,Ticker,Empresa,Setor,Preço de Entrada (R$),Preço Atual (R$),Preço T
 
 ## ⚠️ Limitações e Avisos
 
-### Rate Limiting
-- **OpenAI**: Respeite limites de TPM (tokens por minuto)
-- **Anthropic**: Claude tem limites por tier
-- **Selenium**: Adicione delays entre requests
-
-### Web Scraping
-- ⚠️ Seletores CSS podem mudar sem aviso
-- ⚠️ Sleep grande na Suno para mitigar detecção do bot
+### Confidencialidade
+- **Aviso:** Este projeto foi criado para fins educacionais e de uso pessoal. Nenhum dado sensível ou proprietário é distribuído junto ao código. Execute apenas em fontes que você tem autorização para acessar.
 
 ---
 
